@@ -1,5 +1,7 @@
-<h1>Hi, I'm Christian, an <a href="https://www.linkedin.com/in/christian-rivera-8b9459217/"">IT Professional</a>👋</h1>
-
+<h1>Hello everyone, I'm Christian</a>👋</h1>
+<p>
+ I'm an inspiring IT professional who is going to graduate this fall of 2023. I'm eager to learn and improve upon my skills. IT can be a very fulfilling world but also a world that's constanly changing. This very much excites me and I inspire to be a infrastructure engienner in the near future. 
+</p>
 <h2> 💻 Information Technology Projects:</h2>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
